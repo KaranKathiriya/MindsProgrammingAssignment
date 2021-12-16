@@ -1,1 +1,1 @@
-# MindsProgrammingAssignment
+# Minds Programming Assignment
