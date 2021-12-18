@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""TelegramAnalysis.ipynb
+"""TelegramAnalysis.py
 
 MINDS PROGRAMMING ASSIGNMENT
 
@@ -13,9 +13,6 @@ from textblob import TextBlob
 import numpy as np
 import plotly.express as px
 from tqdm import tqdm
-
-df = pd.read_json('result.json')
-df
 
 # load data using Python JSON module
 with open('result.json','r') as f:
