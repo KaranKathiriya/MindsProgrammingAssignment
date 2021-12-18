@@ -40,7 +40,7 @@ The below function is responsible to remove any non-english messages and all the
 
 <kbd>
  <div>
-def def removeNonEn(text)
+def removeNonEn(text)
 </div>
 </kbd>
 <br><br>
