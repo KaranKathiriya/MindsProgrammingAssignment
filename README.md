@@ -71,5 +71,6 @@ fig.show()
 
 <h2>Summary of Results</h2>
 I took messages from CryptoComOfficial telegram channel, the data included messages from 1 to 15 May. The sentiments of each messages were analysed and plotted in form of bar graph. I came to the conclusion that the during this duration most of the messages were neutral after analysing sentiments of each message and plotting it per day.
+TextBlob is a simple library which supports complex analysis and operations on textual data. It's simplicity with accuracy is why I have used textblob for sentiment analysis.
 
 <img src="Plot.png">
